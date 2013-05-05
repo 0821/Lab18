@@ -1,0 +1,12 @@
+public class Dicemain {
+  public static void main(String[] args) {
+
+		
+			
+			System.out.printf("%d ", Dice.RollDice(2,6));
+			
+			System.out.println(Dice.Roll_1_Dice());
+System.out.println(Dice.Rollcount());
+
+		}
+	}
